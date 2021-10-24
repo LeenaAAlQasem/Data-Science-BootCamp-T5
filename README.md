@@ -1,1 +1,1 @@
-# Data Science BootCamp T5
+# Exploratory Data Analysis (EDA) project for BootCamp T5
