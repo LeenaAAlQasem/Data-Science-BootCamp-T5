@@ -28,3 +28,7 @@ The Metropolitan Transportation Authority is North America's largest transportat
 - Technologies: Jupyter Notebook, Python, SQL and SQLlite.
 - Libraries: Pandas, NumPy, Matplotlib and Seaborn.
 
+## Contributions:
+
+[Leena AlQasem](https://github.com/LeenaAAlQasem) <br>
+[Banan Alhethlool](https://github.com/BananAlhethlool)
